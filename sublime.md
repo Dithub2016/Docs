@@ -36,6 +36,7 @@ import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe0
 + Emmet
 + Sass
 + BracketHighlighter
++ Js​Format
 
 + wxapp
 press `Alt + m` to show Console
