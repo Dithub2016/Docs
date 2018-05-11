@@ -3,7 +3,7 @@
 ## Set
 
 ```javascript
-const set = new Set([]); // 接受具有 iterable 接口的期货数据结构 
+const set = new Set([]); // 接受具有 iterable 接口的数据结构
 set.size;
 set.add(value); // return set;
 set.delete(value); // return boolean;
